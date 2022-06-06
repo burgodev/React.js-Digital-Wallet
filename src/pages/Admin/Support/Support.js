@@ -53,8 +53,8 @@ function Support({ classes }) {
     bucketName: "atom-storage",
     dirName: `ticket/user/${id}`,
     region: "sa-east-1",
-    accessKeyId: "AKIAYAFYWMWHKUSN74XV",
-    secretAccessKey: "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",
+    accessKeyId: "",
+    secretAccessKey: "",
   };
 
   const handleOpen = () => {
