@@ -1,0 +1,57 @@
+.app-wrapper {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 100vh;
+}
+
+.app-wrapper-container {
+  display: flex;
+  width: 100vw;
+  height: 100vh;
+  background-color: var(--top-menu-bg-color);
+}
+
+.app-wrapper-content {
+  display: flex;
+  flex-direction: column;
+  /* padding: 40px 0px 0px 60px; */
+  padding: 12.5vh 5vw;
+
+  background-color: var(--top-menu-bg-color);
+
+  width: 87vw;
+  height: 100%;
+  left: 13vw;
+
+}
+
+/*--------------------------START MEDIA QUERIES-----------------------------*/
+@media (min-width: 375px) and (max-width: 767.98px) {
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+}
+
+@media (min-width: 992px) and (max-width: 1198.98px) {
+}
+
+@media (min-width: 1200px) and (max-width: 1359.98px) {
+}
+
+@media (min-width: 1360px) and (max-width: 1380px) {
+  .profile-account-main-container {
+    height: 850px;
+  }
+}
+
+@media (min-width: 1400px) and (max-width: 1919.98px) {
+}
+
+@media (min-width: 1920px) and (max-width: 2499.98px) {
+}
+
+@media (min-width: 2500px) {
+}
+
+/*--------------------------END MEDIA QUERIES-----------------------------*/

@@ -1,0 +1,448 @@
+{
+  "navigation": {
+    "realAccount": "Conta real",
+    "demoAccount": "Conta demo",
+    "transferHistory": "Histórico de transferência",
+    "newDeposit": "Novo depósito",
+    "depositHistory": "Histórico de depósitos",
+    "newWithdraw": "Novo saque",
+    "withdrawHistory": "Histórico de saques",
+    "platforms": "Plataformas"
+  },
+  "table": {
+    "solicitationDate": "Data solicitação",
+    "walletAddress": "Endereço da carteira",
+    "currency": "Moeda",
+    "tax": "Taxa",
+    "value": "Valor",
+    "destiny":"Destino"
+  },
+  "modalTutorial": {
+    "welcome": "Seja bem-vindo(a)!",
+    "description": "A seguir algumas instruções para seu primeiro login em nossa plataforma.",
+    "start": "Como você deseja iniciar?",
+    "realAccount": "Conta Real",
+    "hasUsdx": "Você já tem USDX?",
+    "demoAccount": "Conta Demo",
+    "metatraderAccount": "Conta Negociação Metatrader",
+    "metatraderDescription": "Nesta conta seu dinheiro estará integrado com a plataforma Metatrader",
+    "botmoneyAccount": "Conta Botmoney",
+    "botmoneyDescription": "Nesta conta você tem acesso total ao metatrader e aos ativos de negociação, onde você é responsável por suas operações",
+    "whatIsUsdx": "O que é USDX?",
+    "usdxDescription": "É o ativo tokenizado com tecnologia blockchain que a Select utiliza para otimizar as transações, registrar os históricos e aprimorar o processo de operações"
+  },
+  "notifications": {
+    "none": "Não há notificações"
+  },
+  "validation": {
+    "required": "Campo obrigatório *"
+  },
+  "sidebar": {
+    "home": "Início",
+    "accounts": "Contas",
+    "withdraw": "Saque",
+    "deposit": "Depósito",
+    "extract": "Extrato",
+    "report": "Relatório",
+    "platforms": "Plataformas",
+    "logout": "Sair",
+    "wallet": "Carteira",
+    "availableBalance": "Saldo disponível",
+    "doubts": "Dúvidas sobre a nossa plataforma?",
+    "faq": "Acesse nosso FAQ"
+  },
+  "modalTransfer": {
+    "withdrawal": "Retirada",
+    "application": "Aplicação",
+    "from": "De",
+    "to": "Para",
+    "value": "Valor"
+  },
+  "button": {
+    "downloadPlatform": "Baixar plataforma",
+    "confirm": "Confirmar",
+    "save": "Salvar",
+    "back": "Voltar",
+    "letsGo": "Vamos Começar",
+    "realAccount": "Conta real",
+    "demoAccount": "Conta demo",
+    "deposit": "Depositar",
+    "buyUsdx": "Comprar USDX",
+    "createAccount": "Criar conta",
+    "whatIsUsdx": "O que é USDX?",
+    "buy": "Comprar",
+    "transfer": "Transferir"
+  },
+  "select": {
+    "country": "País",
+    "state": "Estado",
+    "city": "Cidade",
+    "noData": "Não existe dados para essa busca"
+  },
+  "fileUploader": {
+    "drag": "Arraste um arquivo ou",
+    "select": "selecione",
+    "fileSuccess": "Arquivo carregado com sucesso",
+    "approvedHint": "caso queira atualizar o arquivo, arraste ou selecione",
+    "file": "Arquivo",
+    "approved": "aprovado",
+    "reproved": "Arquivo reprovado, arraste ou selecione novamente",
+    "analysis": "Arquivo em análise, aguarde"
+  },
+  "login": {
+    "title": "Login",
+    "enter": "Entrar",
+    "password_forgot": "Esqueci minha senha",
+    "noAccount": "Não tem uma conta?",
+    "register": "Registre-se",
+    "password": "Senha"
+  },
+  "passwordReset": {
+    "resetPassword": "Resetar senha",
+    "description": "Insira o email associado a sua conta. Nós vamos enviar um email com as instruções para resetar sua senha",
+    "send": "Enviar",
+    "back": "Voltar"
+  },
+  "checkEmail": {
+    "verify": "Verifique seu email",
+    "description": "Nós enviamos as instruções de recuperação de senha para o seu email",
+    "understood": "Entendi"
+  },
+  "changePassword": {
+    "title": "Altere a sua senha",
+    "description": "A sua nova senha precisa ser diferennte da anterior",
+    "password": "Senha",
+    "confirm": "Confirmar senha",
+    "oldPassword": "Senha atual",
+    "newPassword": "Nova senha",
+    "confirmPassword": "Confirmar nova senha"
+  },
+  "register": {
+    "title": "Conta Pessoal",
+    "firstName": "Nome",
+    "lastName": "Sobrenome",
+    "email": "Email",
+    "password": "Senha",
+    "confirmPassword": "Confirmar senha",
+    "register_terms_1": "Ao se registar, você aceita",
+    "register_terms_2": "nossos termos de uso",
+    "register_terms_3": "e a nossa",
+    "register_terms_4": "política de privacidade",
+    "signIn": "Cadastrar",
+    "alreadyClient": "Já sou cliente"
+  },
+  "termsOfUse": {
+    "title": "Termos de uso",
+    "back": "Voltar"
+  },
+  "confirmEmail": {
+    "title": "Confirmação de email",
+    "description": "Confirme o e-mail clicando no botão abaixo.",
+    "confirm": "Confirmar"
+  },
+  "profile": {
+    "changePassword": "Alterar senha",
+    "myProfile": "Meu perfil",
+    "myDocuments": "Meus documentos"
+  },
+  "realAccount": {
+    "title": "Criar conta real"
+  },
+  "createAccount": {
+    "title": "Criar conta",
+    "currency": "Moeda",
+    "category": "Categoria",
+    "accountName": "Nome da conta",
+    "leverage": "Alavancagem",
+    "type": "Tipo",
+    "virtualBalance": "Saldo virtual"
+  },
+  "demoAccount": {
+    "title": "Criar conta demo"
+  },
+  "accountCard": {
+    "balance": "Saldo",
+    "signature": "Assinatura",
+    "category": "Categoria",
+    "bot": "Robô",
+    "currency": "Moeda",
+    "application": "Aplicação",
+    "withdrawal": "Retirada",
+    "accountType": "Tipo",
+    "leverage": "Alavancagem"
+  },
+  "platforms": {
+    "description": "O MetaTrader 5 é uma plataforma institucional multiativos que oferece excelentes possibilidades de negociação e ferramentes de análise técnica, além de permitir o uso de sistemas de negociação automatizados (robôs de negociação) e negociações de cópias. Novos recursos, como prazsos adicionais e ferramentas avançadas de gráficos, oferecem uma vantagem competitiva nos mercados financeiros."
+  },
+  "newDeposit": {
+    "code": "Código de recebimento",
+    "transfer": "Transfira seu novo depósito para uma conta operação",
+    "hint": "Para evitar problemas, leia as orientações antes de realizar seu depósito",
+    "instructions": "Instruções de recebimento",
+    "instruction1": "Utilize somente Binance Smart Chain (BSC) para est a carteira. Enviar qual quer outro tipo de ativo para resultar em perda permanente no seu recebimento.",
+    "instruction2": "A transação será aprovada após confirmação em nosso rede blockchain.",
+    "declaration": "Declaro ter lido as instruções e estou ciente das regras do recebimento.",
+    "generateCode": "Gerar código de recebimento"
+  },
+  "newWithdraw": {
+    "description": "O valor solicitado será enviado para a sua carteira do Ax Bank",
+    "walletAddress": "Endereço da carteira",
+    "value": "Valor",
+    "currency": "Moeda"
+  },
+  "modalToken": {
+    "hint": "Copie este TOKEN para integrar suas contas de operação na plataforma desejada.",
+    "description": "O que é um token ? É uma chave de integração, ela é responsável por vincular suas contas de operação da select em outras plataformas."
+  },
+  "myProfile": {
+    "name": "Nome",
+    "lastName": "Sobrenome",
+    "document": "Documento",
+    "birthDate": "Data de nascimento",
+    "neighborhood": "Bairro",
+    "street": "Rua",
+    "number": "Número",
+    "complement": "Complemento",
+    "phoneNumber": "Telefone"
+  },
+  "profilePage": {
+    "personal_account_data": "Informe os dados da sua conta pessoal",
+    "personal_data_adviser": "Os dados de pessoas fisicas são necessários para a conclusão do seu cadastro e manter sua conta segura.",
+    "first_name_required": "Nome é obrigatório",
+    "first_name_should_have_3_digits": "Nome deve ter pelo menos 3 digitos",
+    "first_name_valid": "Insira um Nome válido",
+    "last_name_required": "Sobrenome é obrigatório",
+    "last_name_should_have_3_digits": "Sobrenome deve ter pelo menos 3 digitos",
+    "last_name_valid": "Insira um Sobrenome válido",
+    "document_number_required": "CPF é obrigatório",
+    "document_number_should_have_11_digits": "CPF deve ter pelo menos 11 digitos",
+    "only_numbers_please": "Apenas números, por favor",
+    "select_a_country_first": "Selecione um país primeiro",
+    "zipcode_required": "CEP é obrigatório",
+    "zipcode_should_have_6_digits": "CEP deve ter pelo menos 6 digitos",
+    "address_required": "Endereço é obrigatório",
+    "address_should_have_5_digits": "Endereço deve ter pelo menos 5 digitos",
+    "phone_required": "Telefone é obrigatório",
+    "phone_should_have_9_digits": "Telefone deve ter pelo menos 9 digitos",
+    "only_numbers": "(apenas números)",
+    "birthdate": "Data de nascimento",
+    "zipcode": "CEP",
+    "first_name": "Nome",
+    "last_name": "Sobrenome",
+    "country": "País",
+    "state": "Estado",
+    "city": "Cidade",
+    "document_type": "CPF",
+    "address": "Endereço",
+    "complement": "Complemento",
+    "country_code": "Código",
+    "phone": "Telefone",
+    "address_information": "Informações de endereço"
+  },
+  "globalErrorMessages": {
+    "image_error_upload": "Erro ao carregar imagem.",
+    "data_error_to_save": "Erro ao salvar seus dados, verifique os campos."
+  },
+  "globalSuccessMessages": {
+    "image_success_upload": "Imagem carregada com sucesso.",
+    "data_success_saved": "Dados salvos com sucesso!"
+  },
+  "globalTranslation": {
+    "save_changes": "Salvar alterações",
+    "january": "Janeiro",
+    "february": "Fevereiro",
+    "march": "Março",
+    "april": "Abril",
+    "may": "Maio",
+    "june": "Junho",
+    "july": "Julho",
+    "august": "Agosto",
+    "september": "Setembro",
+    "october": "Outubro",
+    "november": "Novembro",
+    "december": "Dezembro",
+    "send": "Enviar"
+  },
+  "profileSideMenu": {
+    "hello": "Olá",
+    "complete_registration": "Finalize o seu cadastro para acessar o seu menu.",
+    "your_status_change": "Seu status mudará de acordo com o preenchimento dos formulários.",
+    "account": "Minha conta",
+    "account_description_menu": "Nome, perfil e endereço",
+    "documents": "Documentos",
+    "documents_description_menu": "Envio, validação",
+    "need_help": "Precisa de ajuda"
+  },
+  "documentValidationPage": {
+    "document_upload": "Envio de documentos",
+    "document_analysis": "Documentos enviados serão analisados por nossa equipe no prazo de 24h após o envio.",
+    "document_photo_front": "ID Frente",
+    "document_photo_verse": "ID Verso",
+    "proof_of_residence": "Comprovante de residência",
+    "selfie": "Selfie",
+    "analysis": "Análise",
+    "approved": "Aprovado",
+    "refused": "Reprovado"
+  },
+  "mainSideMenu": {
+    "url_home": "Início",
+    "url_accounts": "Contas",
+    "url_operation_create_account": "Criar conta",
+    "url_operation_list_accounts": "Minhas contas",
+    "url_operation_deposit": "Depositar",
+    "url_transactions": "Transações",
+    "url_wallet_new": "Adicionar carteira",
+    "url_wallet_list": "Minhas carteiras",
+    "url_wallet_withdraw": "Saque",
+    "url_wallet_history": "Histórico",
+    "url_wallet_transfer": "Transferência",
+    "url_extract": "Extrato",
+    "url_ticket": "Suporte",
+    "my_profile": "Meu perfil",
+    "change_profile_photo": "Alterar foto do perfil"
+  },
+  "mainProfilePage": {
+    "account_status_top": "Account status",
+    "account_status_description": "Documentos enviados serão analisados por nossa equipe no prazo de 24h após o envio.",
+    "bt_create_account": "Criar conta",
+    "bt_withdraw": "Saque",
+    "all_my_accounts": "Todas as minhas contas",
+    "balance_available": "Saldo disponível",
+    "balance_blocked": "Saldo bloqueado",
+    "balance_total": "Saldo total",
+    "account_resume_title": "Resumo das minhas contas",
+    "bt_deposit": "Depositar",
+    "account_id_card": "ID CONTA"
+  },
+  "createOperationAccountPage": {
+    "modal_created_message": "Conta criada com sucesso",
+    "modal_created_info": "Confira as informações da sua conta! Mantenha suas senhas em local seguro. Nós mostramos ela somente uma vez.",
+    "lb_accounts": "Contas",
+    "lb_description_account": "Descrição da conta",
+    "lb_strategy_type": "(É indicado esse espaço para o tipo de estratégia)",
+    "lb_account_type": "Escolha qual tipo de conta",
+    "demo": "Demo",
+    "real": "Real",
+    "coin_select": "Selecione a moeda",
+    "leverage": "Alavancagem",
+    "leverage_soon": "Alavancagens disponíveis em breve",
+    "platform": "Plataforma",
+    "platform_soon": "Plataforma disponível em breve",
+    "open_account": "Abrir conta"
+  },
+  "accountsPage": {
+    "bt_create_account": "Criar conta",
+    "account_info_title": "Informações das minhas contas",
+    "bt_rename": "Renomear",
+    "bt_deposit": "Depositar",
+    "lb_account_id": "ID da conta",
+    "lb_leverage": "Alavancagem",
+    "lb_blocked": "Bloqueado",
+    "lb_available": "Disponível",
+    "lb_total_balance": "Saldo total",
+    "lb_platform": "Plataforma",
+    "lb_coin": "Moeda",
+    "lb_to_withdraw": "Para saque",
+    "bt_delete_account": "Excluir conta"
+  },
+  "walletCreatePage": {
+    "modal_success_wallet_add": "Carteira adicionada com sucesso",
+    "modal_my_wallet": "Minha carteira",
+    "modal_insert_info_wallet": "Insira as informações da sua carteira",
+    "modal_insert_hash": "Insira sua HASH",
+    "modal_lb_crypto_network": "Escolha a rede da crypto",
+    "modal_select_network": "Selecione uma rede",
+    "modal_bt_confirm": "Confirmar",
+    "lb_choose_exchange": "Selecione a sua corretora",
+    "lb_choose_coin": "Selecione a moeda",
+    "bt_add_wallet": "Adicionar carteira"
+  },
+  "walletMainPage": {
+    "modal_withdraw_success_message": "Saque solicitado com sucesso",
+    "modal_solicitation_message": "Acompanhe sua solicitação pelo",
+    "modal_success_history_link": " histórico",
+    "modal_withdraw_title": "Saque",
+    "modal_my_wallet": "Minha carteira",
+    "modal_desc_withdraw": "Todos os saques são feitos em BTC",
+    "modal_choose_account_withdraw": "Escolha a conta que deseja sacar",
+    "modal_select_operation": "Selecione",
+    "modal_balance_available": "Valor disponível para saque:",
+    "modal_bt_confirm": "Confirmar",
+    "lb_add_new_wallet": "Adicione uma nova carteira",
+    "bt_add_new_wallet": "Criar uma carteira",
+    "lb_select_wallet": "Selecione uma carteira",
+    "bt_withdraw": "Sacar",
+    "ph_balance_available": "Digite o valor para saque"
+  },
+  "navWallet": {
+    "link_wallet": "Carteiras",
+    "link_history": "Histórico",
+    "link_transfer": "Transferência entre contas"
+  },
+  "transactionHistoryPage": {
+    "lb_select_date": "Datas",
+    "lb_select_account": "Conta",
+    "lb_select_wallet": "Carteira",
+    "lb_select_status": "Status",
+    "lb_select_coin": "Moeda",
+    "lb_select_from": "De",
+    "lb_select_until": "Até",
+    "tb_request_date": "Data solicitação",
+    "tb_account": "Conta",
+    "tb_status": "Status",
+    "tb_process_date": "Data processamento",
+    "tb_wallet": "Carteira",
+    "tb_coin": "Moeda",
+    "tb_received": "Montante recebido",
+    "tb_coin_price": "Cotação da moeda",
+    "tb_value": "Valor"
+  },
+  "walletTransferPage": {
+    "modal_success_message": "Transferência entre contas feita com sucesso!",
+    "modal_lb_acc_from": "Conta:",
+    "modal_lb_transfered_value": "Valor transferido",
+    "modal_lb_total_value_acc": "Valor total em conta",
+    "lb_internal_transfer_title": "Transferência interna de contas do mesmo CPF",
+    "lb_from": "De",
+    "lb_to": "Para",
+    "lb_select_an_account": "Selecione uma conta",
+    "lb_value_to_transfer": "Valor para transfência",
+    "lb_available_value": "Valor disponível:",
+    "lb_aprox": "Aprox:",
+    "bt_confirm": "Confirmar"
+  },
+  "extractPage": {
+    "tb_head_data": "Data",
+    "tb_head_account": "Conta",
+    "tb_head_description": "Descrição",
+    "tb_head_value": "Valor",
+    "lb_select_accounts": "Selecione a conta ou todas para exibir o extrato",
+    "lb_select_all_accounts": "Selecionar todas as contas",
+    "lb_card_id_account": "ID Conta",
+    "sl_filter_data": "Data",
+    "sl_filter_transaction": "Tipo de transação",
+    "sl_filter_enter": "Entrada",
+    "sl_filter_left": "Saída"
+  },
+  "ticketPage": {
+    "tb_head_data": "Data",
+    "tb_head_subject": "Assunto",
+    "tb_head_status": "Status",
+    "tb_head_ticketN": "Ticket ID",
+    "tb_head_supporter": "Atendente",
+    "modal_lb_subject": "Assunto:",
+    "modal_lb_description": "Descreva seu problema:",
+    "modal_lb_file": "Escolha um ou mais arquivos",
+    "modal_bt_cancel": "Cancelar",
+    "modal_bt_send_ticket": "Abrir ticket",
+    "lb_title_page": "Seus tickets",
+    "bt_new_message": "Nova mensagem",
+    "sp_adviser": "O prazo de resposta das novas mensagens são de 24h após a abertura do chamado.",
+    "sp_adviser2": "Você receberá uma notificação.",
+    "sl_filter_data": "Data",
+    "sl_filter_transaction": "Tipo de transação",
+    "sl_filter_enter": "Entrada",
+    "sl_filter_left": "Saída",
+    "ph_search": "Pesquisar"
+  }
+}

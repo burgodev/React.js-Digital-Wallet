@@ -1,0 +1,465 @@
+{
+  "validation": {
+    "required": "Required *"
+  },
+  "navigation": {
+    "realAccount": "Real account",
+    "demoAccount": "Demo account",
+    "transferHistory": "Transfer history",
+    "newDeposit": "New Deposit",
+    "depositHistory": "Deposit History",
+    "newWithdraw": "New withdraw",
+    "withdrawHistory": "Withdraw history",
+    "platforms": "Platforms"
+  },
+  "modalTutorial": {
+    "welcome": "Welcome!",
+    "description": "Below are some instructions for your first login to our platform.",
+    "start": "How would you like to start?",
+    "realAccount": "Real Account",
+    "hasUsdx": "Do you already have USDX?",
+    "demoAccount": "Demo Account",
+    "metatraderAccount": "Metatrader Trading Account",
+    "metatraderDescription": "In this account your money will be integrated with the Metatrader platform",
+    "botmoneyAccount": "Botmoney Account",
+    "botmoneyDescription": "In this account you have full access to metatrader and trading assets, where you are responsible for your operations",
+    "whatIsUsdx": "What is USDX?",
+    "usdxDescription": "It is the tokenized blockchain asset that Select uses to optimize transactions, record histories and the operations process."
+  },
+  "notifications": {
+    "none": "There are no notifications"
+  },
+  "table": {
+    "solicitationDate": "Solicitation date",
+    "walletAddress": "Wallet address",
+    "currency": "Currency",
+    "tax": "Tax",
+    "value": "Value",
+    "destiny": "Destiny"
+  },
+  "sidebar": {
+    "home": "Home",
+    "accounts": "Accounts",
+    "withdraw": "Withdraw",
+    "deposit": "Deposit",
+    "extract": "Extract",
+    "report": "Report",
+    "platforms": "Platforms",
+    "logout": "Logout",
+    "wallet": "Wallet",
+    "availableBalance": "Available Balance",
+    "doubts": "Questions about our platform?",
+    "faq": "Access our FAQ"
+  },
+  "modalTransfer": {
+    "withdrawal": "Withdrawal",
+    "application": "Application",
+    "from": "From",
+    "to": "To",
+    "value": "Value"
+  },
+  "button": {
+    "downloadPlatform": "Download Platform",
+    "confirm": "Confirm",
+    "save": "Save",
+    "back": "Back",
+    "letsGo": "Let's go",
+    "realAccount": "Real account",
+    "demoAccount": "Demo account",
+    "deposit": "Deposit",
+    "buyUsdx": "Buy USDX",
+    "createAccount": "Create account",
+    "whatIsUsdx": "What is USDX?",
+    "buy": "Buy",
+    "transfer": "Transfer"
+  },
+  "select": {
+    "country": "Country",
+    "state": "State",
+    "city": "City",
+    "noData": "No results found"
+  },
+  "fileUploader": {
+    "drag": "Drag or select",
+    "select": "a file",
+    "fileSuccess": "File uploaded successfully",
+    "approvedHint": "if you want to update the file, drag or select",
+    "file": "File",
+    "approved": "approved",
+    "reproved": "File reproved, drag or select again",
+    "analysis": "File under review, please wait"
+  },
+  "login": {
+    "title": "Login",
+    "enter": "Enter",
+    "password_forgot": "Forgot my password",
+    "noAccount": "Don't have an account?",
+    "register": "Create account",
+    "password": "Password"
+  },
+  "forgotPassword": {
+    "resetPassword": "Reset password",
+    "description": "Enter the email associated with your account and we’ll send an email with instructions to reset your passaword.",
+    "send": "Send",
+    "back": "Back"
+  },
+  "checkEmail": {
+    "verify": "Verify your email",
+    "description": "We have sent a password recover instructions to your email.",
+    "understood": "Got it"
+  },
+  "changePassword": {
+    "title": "Change your password",
+    "description": "Your new password must be diferent from previous used passwords.",
+    "password": "Password",
+    "confirm": "Confirm Password",
+    "change": "Change",
+    "oldPassword": "Old password",
+    "newPassword": "New password",
+    "confirmPassword": "Confirm new password"
+  },
+  "register": {
+    "title": "Personal Account",
+    "firstName": "Name",
+    "lastName": "Last Name",
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm password",
+    "register_terms_1": "I accept",
+    "register_terms_2": "the terms of use",
+    "register_terms_3": "and the",
+    "register_terms_4": "privacy police",
+    "signIn": "Register",
+    "alreadyClient": "Already client"
+  },
+  "termsOfUse": {
+    "title": "Terms of use",
+    "back": "Back"
+  },
+  "confirmEmail": {
+    "title": "Confirm email",
+    "description": "Confirm your email clicking in the button below",
+    "confirm": "Confirm"
+  },
+  "profile": {
+    "changePassword": "Change password",
+    "myProfile": "My profile",
+    "myDocuments": "My documents"
+  },
+  "realAccount": {
+    "title": "Create real account"
+  },
+  "createAccount": {
+    "title": "Create account",
+    "currency": "Currency",
+    "category": "Category",
+    "accountName": "Account name",
+    "leverage": "Leverage",
+    "type": "Type",
+    "virtualBalance": "Virtual balance"
+  },
+  "demoAccount": {
+    "title": "Create demo account"
+  },
+  "accountCard": {
+    "balance": "Balance",
+    "signature": "Signature",
+    "category": "Category",
+    "bot": "Bot",
+    "currency": "Currency",
+    "application": "Application",
+    "withdrawal": "Withdrawal",
+    "accountType": "Type",
+    "leverage": "Leverage"
+  },
+  "platforms": {
+    "description": "MetaTrader 5 is a multi-asset institutional platform that offers excellent trading possibilities and technical analysis tools, as well as allowing the use of automated trading systems (trading robots) and copy trading. New features such as additional deadlines and advanced charting tools give you a competitive edge in the financial markets."
+  },
+  "newDeposit": {
+    "code": "Receipt code",
+    "transfer": "Transfer your new deposit to a trading account",
+    "hint": "To avoid problems, read the guidelines before making your deposit.",
+    "instructions": "Receiving instructions",
+    "instruction1": "Only use Binance Smart Chain (BSC) for this wallet. Send any other type of asset to result in a permanent loss upon receipt.",
+    "instruction2": "The transaction will be approved after confirmation on our blockchain network.",
+    "declaration": "I declare that I have read the instructions and am aware of the rules of receipt.",
+    "generateCode": "Generate receipt code"
+  },
+  "newWithdraw": {
+    "description": "The requested amount will be sent to your Ax Bank wallet",
+    "walletAddress": "Wallet adress",
+    "value": "Value",
+    "currency": "Currency"
+  },
+  "modalToken": {
+    "hint": "Copy this TOKEN to integrate your trading accounts on the desired platform.",
+    "description": "What is a token? It is an integration key, it is responsible for linking your select operation accounts on other platforms. What is a token? It is an integration key, it is responsible for linking your select operation accounts on other platforms."
+  },
+  "myProfile": {
+    "name": "Name",
+    "lastName": "Last Name",
+    "document": "Document",
+    "birthDate": "Birthdate",
+    "neighborhood": "Neighborhood",
+    "street": "Street",
+    "number": "Number",
+    "complement": "Complement",
+    "phoneNumber": "Phone Number"
+  },
+  "profilePage": {
+    "personal_account_data": "Enter your personal account data",
+    "personal_data_adviser": "Personal data is required to complete your registration and keep your account secure.",
+    "first_name_required": "First name is required",
+    "first_name_should_have_3_digits": "First name should have at-least 3 digits",
+    "first_name_valid": "Enter a valid first name",
+    "last_name_required": "Last name is required",
+    "last_name_should_have_3_digits": "Lastname should have at-least 3 digits",
+    "last_name_valid": "Enter a valid last name",
+    "document_number_required": "Doc. number is required",
+    "document_number_should_have_11_digits": "Doc. number should have at-least 11 digits",
+    "only_numbers_please": "Only numbers, please",
+    "select_a_country_first": "Select a country first",
+    "zipcode_required": "Zipcode is required",
+    "zipcode_should_have_6_digits": "Zipcode should have at-least 6 digits",
+    "address_required": "Address is required",
+    "address_should_have_5_digits": "Address should have at-least 5 digits",
+    "phone_required": "Phone is required",
+    "phone_should_have_9_digits": "Phone should have at-least 9 digits",
+    "only_numbers": "(only numbers)",
+    "birthdate": "Birthdate",
+    "zipcode": "Zipcode",
+    "first_name": "First name",
+    "last_name": "Last name",
+    "country": "Country",
+    "state": "State",
+    "city": "City",
+    "document_type": "Document number",
+    "address": "Address",
+    "complement": "Complement",
+    "country_code": "Code",
+    "phone": "Phone",
+    "address_information": "Address information"
+  },
+  "globalErrorMessages": {
+    "image_error_upload": "Upload image error, try again.",
+    "data_error_to_save": "Error to save your data, check the fields"
+  },
+  "globalSuccessMessages": {
+    "image_success_upload": "Image uploaded with success!",
+    "data_success_saved": "Data saved!"
+  },
+  "globalTranslation": {
+    "save_changes": "Save changes",
+    "january": "January",
+    "february": "February",
+    "march": "March",
+    "april": "April",
+    "may": "May",
+    "june": "June",
+    "july": "July",
+    "august": "August",
+    "september": "September",
+    "october": "October",
+    "november": "November",
+    "december": "December",
+    "send": "Send"
+  },
+  "profileSideMenu": {
+    "hello": "Hello",
+    "complete_registration": "Complete the registration to access your menu.",
+    "your_status_change": "Your status will change each step as you complete the registration form.",
+    "account": "My account",
+    "account_description_menu": "Data, profile and address",
+    "documents": "Documents",
+    "documents_description_menu": "Send, validation",
+    "need_help": "Need help"
+  },
+  "documentValidationPage": {
+    "document_upload": "Document validation",
+    "document_analysis": "Documents will be analyzed by our team within 24h after submited",
+    "document_photo_front": "Doc Front",
+    "document_photo_verse": "Doc Back",
+    "proof_of_residence": "Proof of residence",
+    "selfie": "Selfie",
+    "analysis": "Analysis",
+    "approved": "Approved",
+    "refused": "Refused"
+  },
+  "mainSideMenu": {
+    "url_home": "Home",
+    "url_accounts": "Accounts",
+    "url_operation_create_account": "Create account",
+    "url_operation_list_accounts": "My accounts",
+    "url_operation_deposit": "Deposit",
+    "url_transactions": "Transactions",
+    "url_wallet_new": "Add wallet",
+    "url_wallet_list": "My wallets",
+    "url_wallet_withdraw": "Withdraw",
+    "url_wallet_history": "History",
+    "url_wallet_transfer": "Transfer",
+    "url_extract": "Extract",
+    "url_ticket": "Support",
+    "my_profile": "My profile",
+    "change_profile_photo": "Change profile image"
+  },
+  "registerAccountPage": {
+    "personal_account": "Personal account",
+    "email": "Email",
+    "email_required": "Email is required",
+    "email_valid": "Enter a valid email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "password_required": "Password is required",
+    "password_should_have_6_digits": "Password should have at-least 6 digits",
+    "register_terms_1": "By register, you are agreeing to the",
+    "register_terms_2": "terms of use",
+    "register_terms_3": "and our",
+    "register_terms_4": "privacy and policy",
+    "bt_register": "Register",
+    "bt_back_login": "Back to the login"
+  },
+  "mainProfilePage": {
+    "account_status_top": "Account status",
+    "account_status_description": "Documents will be analyzed by our team within 24h after submited",
+    "bt_create_account": "Create account",
+    "bt_withdraw": "Withdraw",
+    "all_my_accounts": "Accounts information",
+    "balance_available": "Balance available",
+    "balance_blocked": "Balance blocked",
+    "balance_total": "Balance total",
+    "account_resume_title": "Account list information",
+    "bt_deposit": "Deposit",
+    "account_id_card": "ACCOUNT ID"
+  },
+  "createOperationAccountPage": {
+    "modal_created_message": "Account successfull created",
+    "modal_created_info": "Check the account info! Keep your password in a safe place. We only show once.",
+    "lb_accounts": "Accounts",
+    "lb_description_account": "Account description",
+    "lb_strategy_type": "(É indicado esse espaço para o tipo de estratégia)",
+    "lb_account_type": "Account type",
+    "demo": "Demo",
+    "real": "Real",
+    "coin_select": "Coin type",
+    "leverage": "Leverage",
+    "leverage_soon": "Leverage available soon",
+    "platform": "Platform",
+    "platform_soon": "Platform available soon",
+    "open_account": "Open account"
+  },
+  "accountsPage": {
+    "bt_create_account": "Create account",
+    "account_info_title": "Accounts information",
+    "bt_rename": "Rename",
+    "bt_deposit": "Deposit",
+    "lb_account_id": "Account ID",
+    "lb_leverage": "Leverage",
+    "lb_blocked": "Blocked",
+    "lb_available": "Available",
+    "lb_total_balance": "Total balance",
+    "lb_platform": "Platform",
+    "lb_coin": "Coin",
+    "lb_to_withdraw": "To withdraw",
+    "bt_delete_account": "Delete account"
+  },
+  "walletCreatePage": {
+    "modal_success_wallet_add": "Wallet successfull created",
+    "modal_my_wallet": "My wallet",
+    "modal_insert_info_wallet": "Wallet information",
+    "modal_insert_hash": "Your HASH",
+    "modal_lb_crypto_network": "Crypto network",
+    "modal_select_network": "Select a network",
+    "modal_bt_confirm": "Confirm",
+    "lb_choose_exchange": "Select your exchange",
+    "lb_choose_coin": "Coin",
+    "bt_add_wallet": "Add Wallet"
+  },
+  "walletMainPage": {
+    "modal_withdraw_success_message": "Withdraw submited with success.",
+    "modal_solicitation_message": "Check your order in",
+    "modal_success_history_link": " history",
+    "modal_withdraw_title": "Withdraw",
+    "modal_my_wallet": "My wallet",
+    "modal_desc_withdraw": "All withdraws will be in BTC",
+    "modal_choose_account_withdraw": "Withdraw account",
+    "modal_select_operation": "Select",
+    "modal_balance_available": "Balance available to withdraw:",
+    "modal_bt_confirm": "Confirm",
+    "lb_add_new_wallet": "Add new wallet",
+    "bt_add_new_wallet": "Create wallet",
+    "lb_select_wallet": "Select a wallet",
+    "bt_withdraw": "Withdraw",
+    "ph_balance_available": "Withdraw value"
+  },
+  "navWallet": {
+    "link_wallet": "Wallets",
+    "link_history": "History",
+    "link_transfer": "Internal transfer"
+  },
+  "transactionHistoryPage": {
+    "lb_select_date": "Date",
+    "lb_select_account": "Account",
+    "lb_select_wallet": "Wallet",
+    "lb_select_status": "Status",
+    "lb_select_coin": "Coin",
+    "lb_select_from": "From",
+    "lb_select_until": "Until",
+    "tb_request_date": "Request date",
+    "tb_account": "Account",
+    "tb_status": "Status",
+    "tb_process_date": "Processed date",
+    "tb_wallet": "Wallet",
+    "tb_coin": "Coin",
+    "tb_received": "Total received",
+    "tb_coin_price": "Coin cotation",
+    "tb_value": "Value"
+  },
+  "walletTransferPage": {
+    "modal_success_message": "Internal transfer success!",
+    "modal_lb_acc_from": "Account:",
+    "modal_lb_transfered_value": "Transfered value",
+    "modal_lb_total_value_acc": "Total balance",
+    "lb_internal_transfer_title": "Internal transfer between accounts",
+    "lb_from": "From",
+    "lb_to": "To",
+    "lb_select_an_account": "Select account",
+    "lb_value_to_transfer": "Value to transfer",
+    "lb_available_value": "Available balance:",
+    "lb_aprox": "Aprox:",
+    "bt_confirm": "Confirm"
+  },
+  "extractPage": {
+    "tb_head_data": "Date",
+    "tb_head_account": "Account",
+    "tb_head_description": "Description",
+    "tb_head_value": "Value",
+    "lb_select_accounts": "Select one or all account to show extract",
+    "lb_select_all_accounts": "Select all accounts",
+    "lb_card_id_account": "Account ID",
+    "sl_filter_data": "Date",
+    "sl_filter_transaction": "Transaction type",
+    "sl_filter_enter": "Entrada",
+    "sl_filter_left": "Saída"
+  },
+  "ticketPage": {
+    "tb_head_data": "Date",
+    "tb_head_subject": "Subject",
+    "tb_head_status": "Status",
+    "tb_head_ticketN": "Ticket ID",
+    "tb_head_supporter": "Supporter",
+    "modal_lb_subject": "Subject:",
+    "modal_lb_description": "Describe your problem:",
+    "modal_lb_file": "Choose one or many files",
+    "modal_bt_cancel": "Cancel",
+    "modal_bt_send_ticket": "Open ticket",
+    "lb_title_page": "Your tickets",
+    "bt_new_message": "New message",
+    "sp_adviser": "Your ticket will be analyzed by our team, could be late 24h after opening.",
+    "sp_adviser2": "You will be notified.",
+    "sl_filter_data": "Date",
+    "sl_filter_transaction": "Transaction type",
+    "sl_filter_enter": "Entrada",
+    "sl_filter_left": "Saída",
+    "ph_search": "Search"
+  }
+}
